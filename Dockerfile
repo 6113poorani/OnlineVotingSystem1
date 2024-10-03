@@ -8,7 +8,7 @@ WORKDIR C:\Users\DELL\eclipse-workspace\onlineVotingSystems
 COPY onlineVotingSystems.war ./onlineVotingSystems.war
 
 # Expose port 8080 (default Tomcat port)
-EXPOSE 8080
+EXPOSE 8081
 
 # Start Tomcat
 CMD ["catalina.sh", "run"]
