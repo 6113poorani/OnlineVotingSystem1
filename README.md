@@ -1,7 +1,10 @@
 <h1>Screenshots of my project</h1>
-![Screenshot (2)](https://github.com/user-attachments/assets/2da69398-6ec0-4d03-816d-c9996cd4e281)
-![Screenshot (3)](https://github.com/user-attachments/assets/a0577e2e-2379-4426-9286-504dd94603b1)
-![Screenshot (4)](https://github.com/user-attachments/assets/9d97a45b-e8e8-45ee-a942-f76e837b0438)
-![Screenshot (1)](https://github.com/user-attachments/assets/acae7d0f-1aaf-479b-9ce0-8c712450c384)
-![Screenshot (5)](https://github.com/user-attachments/assets/4b0fdf0d-7d83-4f3e-9980-72616243227f)
-![Screenshot (6)](https://github.com/user-attachments/assets/bfe2c90b-5189-473a-9792-5cdd3641547a)
+
+
+
+![Screenshot (2)](https://github.com/user-attachments/assets/dee39919-fa49-48f7-ad71-1c9c7cf0a71f)
+![Screenshot (3)](https://github.com/user-attachments/assets/b691400e-6c59-4dc4-b0bf-b35049aee753)
+![Screenshot (4)](https://github.com/user-attachments/assets/b3bb8c0a-96bb-42ca-99d4-b5d0c33dcd8c)
+![Screenshot (1)](https://github.com/user-attachments/assets/0dc34201-310a-444f-82f1-6d7e5619078d)
+![Screenshot (5)](https://github.com/user-attachments/assets/0cccdb0e-4de0-4b16-8268-87f4713d7545)
+![Screenshot (6)](https://github.com/user-attachments/assets/417defd1-ef29-435f-a87f-673844966ac6)
