@@ -1,5 +1,5 @@
 # Use the official Tomcat image from the Docker Hub
-FROM tomcat:9.0
+FROM tomcat:10.1
 
 # Set the working directory
 WORKDIR C:\Users\DELL\eclipse-workspace\onlineVotingSystems
